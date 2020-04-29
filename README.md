@@ -1,2 +1,2 @@
 # SzoftvertesztelesBeadandoGK
-Szoftvertesztelés tantárgyhoz készült beadandó feladat. 
+Szoftvertesztelés tantárgyhoz készült beadandó feladat. Készítette: Guth Károly
